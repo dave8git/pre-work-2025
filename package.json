@@ -1,0 +1,1 @@
+{ "scripts": { "start": "live-server --port=3000" } }
